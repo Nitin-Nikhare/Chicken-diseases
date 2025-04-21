@@ -14,3 +14,4 @@ tensorflow
  scipy
  flask
  flask-Cors
+-e .
